@@ -2,7 +2,7 @@
 - 🔭 Curious Mind and Explorer
 - 👯 GDSC Team
 - 🤝 Looking forward to interact with all!
-- 🌱 I’m currently learning "Machine Learning"
+- 🌱 Exploring "Machine Learning"
 - 💬 Ask me about Linux
 
 # 💻Tech Stack
