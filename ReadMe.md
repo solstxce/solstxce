@@ -1,8 +1,8 @@
 # 💫About Me :
 - 🔭 Curious Mind and Explorer
-- 👯 GDSC Team
+- 👯 Part of GDSC Team
 - 🤝 Looking forward to interact with all!
-- 🌱 Exploring "Machine Learning"
+- 🌱 Currently exploring Machine Learning and Android
 - 💬 Ask me about Linux
 
 # 💻Tech Stack
