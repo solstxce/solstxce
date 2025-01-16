@@ -20,7 +20,7 @@
 ![](https://github-trophies.vercel.app/?username=solstxce&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-five-blond.vercel.app?user=solstxce&theme=radical)
 
 ### ✨Streak!
 [![GitHub Streak](https://streak-stats.demolab.com?user=solstxce)](https://git.io/streak-stats)
