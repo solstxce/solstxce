@@ -20,7 +20,7 @@
 ![](https://github-trophies.vercel.app/?username=solstxce&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✨Streak!
-
+![GitHub Streak](https://github-readme-streak-stats-five-blond.vercel.app?user=solstxce&theme=radical)
 
 <!---
 [![](https://visitcount.itsvg.in/api?id=solstxce&icon=0&color=0)](https://visitcount.itsvg.in)
